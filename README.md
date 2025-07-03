@@ -10,7 +10,7 @@ This project showcases the configuration and operation of a **Command & Control 
 
 - Simulation of **few adversarial techniques**
 - Monitoring and analysis of **1000+ endpoint events**
-- Real-time response and detection validation with **MITRE ATT&CK mapping**
+- Created rule for the Detection
 
 ---
 
@@ -24,7 +24,7 @@ This project showcases the configuration and operation of a **Command & Control 
 - **EDR Platform:** LimaCharlie  
   - Real-time telemetry
   - Rule-based detection and automated response
-- **Other Tools:** MITRE ATT&CK Navigator, Sysinternals, PowerShell
+- **Other Tools:** Sysinternals, PowerShell
 
 ---
 
@@ -42,8 +42,7 @@ This project showcases the configuration and operation of a **Command & Control 
   - Lateral movement
 
 - ✅ **LimaCharlie Detection:**  
-  Monitored over **1000 endpoint logs and alerts**  
-  Mapped detections to **3+ MITRE ATT&CK techniques**  
+  Monitored over **1000 endpoint logs and alerts**    
   Achieved **90% detection accuracy** across emulated attack chains
 
 - ✅ **Defense Validation:**  
@@ -55,7 +54,7 @@ This project showcases the configuration and operation of a **Command & Control 
 
 ## 📸 Screenshots
 
-*(Add screenshots of your setup, Sliver commands, attack logs, or LimaCharlie interface here)*
+
 
 ---
 
