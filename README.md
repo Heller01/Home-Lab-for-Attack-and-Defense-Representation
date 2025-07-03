@@ -69,7 +69,6 @@ This project showcases the configuration and operation of a **Command & Control 
 
 - Hands-on experience with C2 infrastructure and endpoint detection
 - Improved understanding of red vs. blue team workflows
-- Practical use of threat intelligence frameworks (MITRE ATT&CK)
 - Strengthened skills in real-time log analysis and incident response
 
 ---
