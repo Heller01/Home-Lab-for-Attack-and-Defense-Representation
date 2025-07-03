@@ -54,7 +54,12 @@ This project showcases the configuration and operation of a **Command & Control 
 
 ## 📸 Screenshots
 
-
+<p float="left">
+  <img src="attack_server.png" width="250" alt="Attack Server Setup"/>
+  <img src="file_location.png" width="250" alt="Payload File Location"/>
+  <img src="Print_not_Found.png" width="250" alt="Command Output Not Found"/>
+  <img src="rule_created.png" width="250" alt="Detection Rule Created"/>
+</p>
 
 ---
 
