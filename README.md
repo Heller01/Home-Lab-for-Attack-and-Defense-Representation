@@ -56,9 +56,11 @@ This project showcases the configuration and operation of a **Command & Control 
 
 <p float="left">
   <img src="attack_server.png" width="250" alt="Attack Server Setup"/>
-  <img src="file_location.png" width="250" alt="Payload File Location"/>
+   <img src="rule_created.png" width="250" alt="Detection Rule Created"/>
   <img src="Print_not_Found.png" width="250" alt="Command Output Not Found"/>
-  <img src="rule_created.png" width="250" alt="Detection Rule Created"/>
+  <img src="file_location.png" width="250" alt="Payload File Location"/>
+  <img src="Server_exefile.png" width="250" alt="Exe file Detectd"/>
+  <img src="Network_session.png" width="250" alt="Network Session Found"/>
 </p>
 
 ---
